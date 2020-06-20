@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="my_images" path="Android/data/ma01_20160939.final_project.mobile.lecture/files/Pictures" />
+</PreferenceScreen>

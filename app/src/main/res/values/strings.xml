@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">솜솜아 뭐해</string>
+    <string name="client_id">df4q1tZV6kDi43kDY47x</string>
+    <string name="client_secret">TuVZXhVSuX</string>
+    <string name="api_url">https://openapi.naver.com/</string>
+    <string name="kakao_app_key">009189a720be8ac001af31c673268765</string>
+</resources>
